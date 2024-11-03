@@ -1,0 +1,4 @@
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/Li-Yaosong/ubuntu.git
+	branch = main
