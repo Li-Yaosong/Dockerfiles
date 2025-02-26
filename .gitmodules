@@ -6,3 +6,7 @@
 	path = qt
 	url = https://github.com/Li-Yaosong/qt.git
 	branch = main
+[submodule "game/steamcmd"]
+path = game/steamcmd
+	url = https://github.com/Li-Yaosong/steamcmd.git
+	branch = main
